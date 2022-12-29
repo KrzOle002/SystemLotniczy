@@ -1,0 +1,25 @@
+.seats{
+    text-align: center;
+    width: 23%;
+    float:left;
+    margin-left: 17%;
+ 
+    
+}
+.seats2{
+
+    text-align: center;
+    width: 23%;
+    float:left;
+
+}
+.hallway{
+    width: 20%;
+    height:235vh;
+    float:left;
+    background-color:grey;
+}
+.contentSeat{
+    width: 100%;
+}
+
