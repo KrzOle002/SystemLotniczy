@@ -1,1 +1,0 @@
-Algorytm - rejestracja na miejsca poprzez podanie imienia i nazwiska, liczby miejsc (max3). Paramtery liczenie od okna czy od korytarza
